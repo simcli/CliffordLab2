@@ -24,6 +24,7 @@ namespace CliffordLab2
             // Lab 2 has 2 purposes the multiplier and the information.
 
             //Events
+            txtNumber.Focus();
 
         }
 
